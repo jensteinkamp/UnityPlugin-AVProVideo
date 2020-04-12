@@ -1,0 +1,14 @@
+
+I was wondering if you have any advise on how to play video on various platforms and browsers with WebGL?
+Do you think Chrome will ever work?
+
+AVPro Video (Windows) 1.10.2 Unity asset
+Unity 2019.3.7f1
+Microsoft Surface Laptop Windows 10 Pro
+Mac browsers Safari works by changing settings, Firefox does not work, Chrome does not work
+PC browsers Edge works, Firefox sometimes works, Chrome 81.0.4044.92 does not work
+
+WebGL publish  http://jsteinkamp.com/build_test/
+
+Download Unity project source files from:
+http://jsteinkamp.com/test.zip
